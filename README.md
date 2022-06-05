@@ -13,3 +13,10 @@ It has particular application in decision making, and is used around the world i
 
 Let A={a1,..,an}} be a set of n actions and let F={f1,..,fq} be a consistent family of q criteria. Without loss of generality, we will assume that these criteria have to be maximized.
 The basic data related to such a problem can be written in a table containing {\displaystyle n\times q}n\times q evaluations. Each line corresponds to an action and each column corresponds to a criterion.
+
+Pairwise comparisons
+
+At first, pairwise comparisons will be made between all the actions for each criterion:
+
+dk(ai,aj)=fk(ai)-fk(aj)
+dk(ai,aj) is the difference between the evaluations of two actions for criterion fk. Of course, these differences depend on the measurement scales used and are not always easy to compare for the decision maker.
