@@ -11,6 +11,5 @@ It has particular application in decision making, and is used around the world i
 
 # Calculations 
 
-Let {\displaystyle A=\{a_{1},..,a_{n}\}}A=\{a_{1},..,a_{n}\} be a set of n actions and let {\displaystyle F=\{f_{1},..,f_{q}\}}F=\{f_{1},..,f_{q}\} be a consistent family of q criteria. Without loss of generality, we will assume that these criteria have to be maximized.
-
+Let A={a1,..,an}} be a set of n actions and let F={f1,..,fq} be a consistent family of q criteria. Without loss of generality, we will assume that these criteria have to be maximized.
 The basic data related to such a problem can be written in a table containing {\displaystyle n\times q}n\times q evaluations. Each line corresponds to an action and each column corresponds to a criterion.
